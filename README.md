@@ -16,14 +16,14 @@
       <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center"><a href="https://glitchii.github.io/">Website</a>
     </div>
   </div>
+  <br>
 
 <details style="cursor: pointer;" open>
-  <br>
   <summary>Statistics</summary>
 <p>
 <a href="https://github.com/glitchii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 </a>
 </p>
 </details>
