@@ -41,7 +41,7 @@
   </details>
   
   <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-  <p style="font-size: 20px; font-weight: bold;">Programming languages</p>
+  <h3>Programming Languages</h3>
   
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
