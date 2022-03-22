@@ -18,7 +18,7 @@
     </div>
     <br>
   
-  <details style="cursor: pointer;" open>
+  <details style="cursor: pointer;">
     <summary>Statistics</summary>
     <br>
     <p>
@@ -34,7 +34,7 @@
     <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" align="top">
     <a href="https://discord.com/users/642791754160013312">Discord: Λcє#0002</a>
     <br>
-    <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px" align="bottom">
+    <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px" align="top">
     <a href="mailto:hello@tempfile.site">Email: hello@tempfile.site</a>
     <br>
     I'm quite active on discord, so feel free to message me there if you prefer
