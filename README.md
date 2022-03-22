@@ -20,7 +20,7 @@
 
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
-<p align=center>
+<p>
 <a href="https://github.com/glitchii">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
@@ -35,7 +35,7 @@
        <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px " style="text-align:center" align="center">
        <a href="https://discord.com/users/642791754160013312">Discord: Λcє#0002</a>
   <br>
-       <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px " style="text-align:center" align="center">
+       <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px " style="text-align:center">
        <a href="mailto:hello@tempfile.site">Email: hello@tempfile.site</a>
   <br>     I'm quite active on discord, so feel free to message me there if you prefer
 </details>
