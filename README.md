@@ -31,7 +31,6 @@
   
   <details style="cursor: pointer;">
     <summary style="margin-bottom: 3px">Contact</summary>
-    <br>
     <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" align="top">
     Discord: <a href="https://discord.com/users/642791754160013312">Λcє#0002</a>
     <br>
@@ -42,7 +41,7 @@
   </details>
   
   <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-  <p style="font-size: 20px;  font-weight: 500;">Programming languages</p>
+  <p style="font-size: 20px; font-weight: bold;">Programming languages</p>
   
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
