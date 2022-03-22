@@ -2,9 +2,9 @@
 <div>
   <p>
     <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
-    <h1 align="center" >Glitchii</h1>
+    <h1>Glitchii</h1>
     <br>
-    <div align="center">
+    <div>
       Hi, call me Glitchii. I like technology and programming.<br>
       I mainly program in Python, but I also have experience in JavaScript and Java.
       I mostly work on discord bots and web development, checkout some of my projects.<br>
