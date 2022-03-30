@@ -8,3 +8,4 @@ jobs:
         run: |
           echo "${{ github.workspace }}/lorem/ipsum"
           mkdir -p "${{ github.workspace }}/lorem/ipsum"
+          ls "${{ github.workspace }}"
