@@ -6,6 +6,6 @@ jobs:
     steps:
       - run: ls "${{ github.workspace }}"
       - uses: finnp/create-file-action@1.0.0
-          env:
-            FILE_NAME: "lorem.txt"
-            FILE_DATA: "Ipsum dolor sit amet."
+        env:
+          FILE_NAME: "lorem.txt"
+          FILE_DATA: "Ipsum dolor sit amet."
