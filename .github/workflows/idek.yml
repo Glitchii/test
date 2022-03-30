@@ -1,9 +1,8 @@
 name: No idea
-on: push
-
+on: [push]
 jobs:
   Do-stuff:
     runs-on: ubuntu-latest
     step:
-      - name: Do whatever
+      uses: actions/checkout@v2
       - run: mkdir -p "${{ github.workspace }}/lorem/ipsum"
