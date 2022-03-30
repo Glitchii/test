@@ -4,6 +4,7 @@ jobs:
   Do-stuff:
     runs-on: ubuntu-latest
     steps:
-      - name: List files in the repository
+      - name: Asdf
         run: |
+          echo "${{ github.workspace }}/lorem/ipsum"
           mkdir -p "${{ github.workspace }}/lorem/ipsum"
