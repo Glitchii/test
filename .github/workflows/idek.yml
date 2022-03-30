@@ -5,7 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Asdf
-        run: |
-          echo "${{ github.workspace }}/lorem/ipsum"
-          mkdir -p "${{ github.workspace }}/lorem/ipsum"
-          ls "${{ github.workspace }}"
+        run: echo "${{ github.workspace }}/lorem/ipsum"
+        run:  mkdir -p "${{ github.workspace }}/lorem/ipsum"
+        run:  ls "${{ github.workspace }}"
