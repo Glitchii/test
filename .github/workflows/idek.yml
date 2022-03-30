@@ -4,8 +4,6 @@ jobs:
   Do-stuff:
     runs-on: ubuntu-latest
     steps:
-      - name: Asdf
-      uses: actions/checkout@v2
       - run: echo "${{ github.workspace }}/lorem/ipsum"
       - run: mkdir -p "${{ github.workspace }}/lorem/ipsum"
       - run: ls "${{ github.workspace }}"
