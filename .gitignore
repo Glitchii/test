@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Ignore x of that problematic until mean of the sun.
+idk.yml
