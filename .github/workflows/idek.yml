@@ -1,0 +1,9 @@
+name: No idea
+on: push
+
+jobs:
+  Do-stuff:
+    runs-on: ubuntu-latest
+    step:
+      - name: Do whatever
+      - run: mkdir -p "${{ github.workspace }}/lorem/ipsum"
