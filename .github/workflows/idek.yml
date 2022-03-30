@@ -4,5 +4,6 @@ jobs:
   Do-stuff:
     runs-on: ubuntu-latest
     steps:
-      uses: actions/checkout@v2
-      - run: mkdir -p "${{ github.workspace }}/lorem/ipsum"
+      - name: List files in the repository
+        run: |
+          mkdir -p "${{ github.workspace }}/lorem/ipsum"
