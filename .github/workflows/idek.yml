@@ -4,8 +4,15 @@ jobs:
   Do-stuff:
     runs-on: ubuntu-latest
     steps:
+<<<<<<< HEAD
       - run: ls "${{ github.workspace }}"
       - uses: finnp/create-file-action@1.0.0
         env:
           FILE_NAME: "lorem.txt"
           FILE_DATA: "Ipsum dolor sit amet."
+=======
+      - name: Asdf
+        run: |
+          echo "${{ github.workspace }}/lorem/ipsum"
+          mkdir -p "${{ github.workspace }}/lorem/ipsum"
+>>>>>>> parent of f8048fd (Never gonna give you up)
