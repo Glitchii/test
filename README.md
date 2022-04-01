@@ -1,7 +1,6 @@
 # test
 Test stuff
 [config](/config.json)
-
 # An embed visualizer
 
 Visualize embed or message content from JSON input or provided GUI editor.
@@ -29,7 +28,7 @@ https://glitchii.github.io/embedbuilder/?data=JTdCJTIyZW1iZWQlMjIlM0ElN0IlMjJ0aX
 
 ## Other parameters
 Params that end with `=` in the list below need a value, those that don't will always be truthy when set either with or with no value.
-
+```
 Parameter               Description
 ---------               -----------
 username=               Used to set the default name of the bot.
@@ -45,7 +44,9 @@ placeholders            Silences some warrnings, e.g. warrnings about missing ur
                         This param is useful when your bot allows having placeholders in place of a URL eg. `{ server.url }`
 placeholders=errors     This also disables automatic insertion of 'http' for urls without a protocol.
                         Except, warnings won't be silenced. The user will still see a warning that a url or timestamp (etc.) is incorrect for 5 seconds.
+test=                   [builder.config.js](/builder.config.js)
 
+```
 <small>Case matters, all parameters should be lowercase.</small>
 ### Example URL with all* the above parameters:
 https://glitchii.github.io/embedbuilder/?username=Troy&verified&reverse&guitabs=image,footer&avatar=https://cdn.discordapp.com/avatars/663074487335649292/576eb5f13519b9da10ba7807bdd83fab.webp
